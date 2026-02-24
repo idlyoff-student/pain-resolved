@@ -1,0 +1,4 @@
+aiogram==3.7.0
+selenium==4.15.2
+apscheduler==3.10.4
+webdriver-manager==4.0.1
